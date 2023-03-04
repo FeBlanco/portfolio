@@ -25,4 +25,4 @@ Neste repositório você irá encontrar a analise de 4 (4) projetos, sendo um:
 
 - Site utilizado para elaboração do Plano de Teste [Advantage](https://www.advantageonlineshopping.com/#/)
 
-![Home Site Advantage](../img/ref_advantage_demo_site.png)
+![Home Site Advantage](./img/ref_advantage_demo_site.png)
