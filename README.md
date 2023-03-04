@@ -2,10 +2,10 @@
 
 Este projeto tem como finalidade mostrar o meu trabalho de análise de requisitos e plano de teste
 
-Neste repositório você irá encontrar a analise de 3 (3) projetos, sendo um:
+Neste repositório você irá encontrar a analise de 4 (4) projetos, sendo um:
 
-- Analise de requisitos de dois protótipo Figma diferente
-- Plano de Teste de um site
+- Analise de requisitos de dois protótipo Figma diferentes
+- Plano de Teste de dois sites ecommerce diferentes
 
 ## Portfólio Analise de Requisitos
 
@@ -19,6 +19,10 @@ Neste repositório você irá encontrar a analise de 3 (3) projetos, sendo um:
 
 ## Portfólio Plano de Teste
 
-- Site utilizado para elaboração do Plano [Saucedemo](https://www.saucedemo.com)
+- Site utilizado para elaboração do Plano de Teste [Saucedemo](https://www.saucedemo.com)
 
 ![Home Site Saucedemo](./img/saucedemo_swaglabs_site.png)
+
+- Site utilizado para elaboração do Plano de Teste [Advantage](https://www.advantageonlineshopping.com/#/)
+
+![Home Site Advantage](../img/ref_advantage_demo_site.png)
